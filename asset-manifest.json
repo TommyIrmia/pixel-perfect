@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/pixel-perfect/static/css/main.983efd2f.chunk.css",
+    "main.css": "/pixel-perfect/static/css/main.91fd6487.chunk.css",
     "main.js": "/pixel-perfect/static/js/main.f8c7c4e8.chunk.js",
     "main.js.map": "/pixel-perfect/static/js/main.f8c7c4e8.chunk.js.map",
     "runtime-main.js": "/pixel-perfect/static/js/runtime-main.9ecb9ddd.js",
@@ -8,14 +8,14 @@
     "static/js/2.74e09a47.chunk.js": "/pixel-perfect/static/js/2.74e09a47.chunk.js",
     "static/js/2.74e09a47.chunk.js.map": "/pixel-perfect/static/js/2.74e09a47.chunk.js.map",
     "index.html": "/pixel-perfect/index.html",
-    "static/css/main.983efd2f.chunk.css.map": "/pixel-perfect/static/css/main.983efd2f.chunk.css.map",
+    "static/css/main.91fd6487.chunk.css.map": "/pixel-perfect/static/css/main.91fd6487.chunk.css.map",
     "static/js/2.74e09a47.chunk.js.LICENSE.txt": "/pixel-perfect/static/js/2.74e09a47.chunk.js.LICENSE.txt",
     "static/media/main.scss": "/pixel-perfect/static/media/Livvic-SemiBold.f5f72371.ttf"
   },
   "entrypoints": [
     "static/js/runtime-main.9ecb9ddd.js",
     "static/js/2.74e09a47.chunk.js",
-    "static/css/main.983efd2f.chunk.css",
+    "static/css/main.91fd6487.chunk.css",
     "static/js/main.f8c7c4e8.chunk.js"
   ]
 }
